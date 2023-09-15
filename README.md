@@ -7,7 +7,8 @@ An American Real Estate Company of the residential homes pricing market in Ames,
 
 I was tasked with model designing, development and prediction of pricing houses in estate business
 
-Models applied in Machine Learning Prediction 
+Models applied in Machine Learning Prediction:
+
 . GuasianBoostingRegressor
 . Ridge
 . LinearRegression
